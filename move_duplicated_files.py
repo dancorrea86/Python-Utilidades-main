@@ -31,5 +31,5 @@ def mover_duplicados(diretorio):
                 vistos[chave] = arquivo
     
 if __name__ == "__main__":
-    diretorio_alvo = "C:\\Users\\Daniel_Maciel\\Desktop\\Guias separar\\Guias"
+    diretorio_alvo = "C:\\Users\\Daniel_Maciel\\Desktop\\Nomear\\Declaracao"
     mover_duplicados(diretorio_alvo)
